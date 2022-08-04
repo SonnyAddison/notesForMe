@@ -80,14 +80,18 @@ To install this program, clone this repository, open up your terminal/gitbash, a
 --- 
 
 
-Viedo Tutorial  
-https://drive.google.com/file/d/1Ikt46xQBb0Lq3iFVmCo7W5XUq758g106/view?usp=sharing
+Viedo Tutorial:  
+https://drive.google.com/file/d/1Ikt46xQBb0Lq3iFVmCo7W5XUq758g106/view?usp=sharing  
+
+Heroku link:  
+https://agile-beyond-35458.herokuapp.com/
+
 
 ---
 ## Credits
 
-Thank you to Coding-Boot-Camp for their Starter Code on this project:
-https://github.com/coding-boot-camp
+Thank you to Coding-Boot-Camp for their front end Code on this project:
+https://ua.bootcampcontent.com/UA-Coding-Bootcamp/UofA-VIRT-FSF-PT-04-2022-U-LOLC/-/tree/main/11-Express/02-Challenge/Develop
   
   
 ---
